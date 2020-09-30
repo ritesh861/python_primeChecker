@@ -1,4 +1,4 @@
-num = int(input("Enter a number: "))  
+num = int(input("Enter a number that is integer but greater than 1: "))  
   
 if num > 1:  
    for i in range(2,num):  
